@@ -1,2 +1,2 @@
 # analytics.detectify.com
-## Subdomain Takeover By HAHA
+## Subdomain Takeover By HAHA HaHa
